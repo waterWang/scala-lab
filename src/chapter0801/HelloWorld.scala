@@ -7,6 +7,8 @@ package chapter0801
  */
 object HelloWorld {
   def main(args: Array[String]): Unit = {
-    println("scala first day")
+    var a = 1 + 2 
+    println(a)
   }
+
 }
